@@ -5,3 +5,6 @@
  How to prompt a user to change Password Login.
  How to add a user to a group.
  How to creat a user without home directory
+
+ This submission also included the use of Basic operators in Bash Scripting 
+ 
